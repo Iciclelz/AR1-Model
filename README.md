@@ -1,1 +1,1 @@
-# AR1-Model
+# AR(1)-Model
